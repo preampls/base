@@ -1,0 +1,245 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 1px - 300px 值-->
+    <dimen name="px_1">1px</dimen>
+    <dimen name="px_2">2px</dimen>
+    <dimen name="px_3">3px</dimen>
+    <dimen name="px_4">4px</dimen>
+    <dimen name="px_5">5px</dimen>
+    <dimen name="px_6">6px</dimen>
+    <dimen name="px_7">7px</dimen>
+    <dimen name="px_8">8px</dimen>
+    <dimen name="px_10">10px</dimen>
+
+    <dimen name="px_103">103px</dimen>
+    <dimen name="px_105">105px</dimen>
+    <dimen name="px_106">106px</dimen>
+    <dimen name="px_108">108px</dimen>
+    <dimen name="px_110">110px</dimen>
+
+    <dimen name="px_210">210px</dimen>
+
+    <dimen name="px_11">11px</dimen>
+    <dimen name="px_12">12px</dimen>
+    <dimen name="px_13">13px</dimen>
+    <dimen name="px_14">14px</dimen>
+    <dimen name="px_15">15px</dimen>
+    <dimen name="px_16">16px</dimen>
+    <dimen name="px_18">18px</dimen>
+    <dimen name="px_20">20px</dimen>
+
+    <dimen name="px_112">112px</dimen>
+    <dimen name="px_115">115px</dimen>
+    <dimen name="px_116">116px</dimen>
+    <dimen name="px_120">120px</dimen>
+
+    <dimen name="px_214">214px</dimen>
+    <dimen name="px_220">220px</dimen>
+
+    <dimen name="px_22">22px</dimen>
+    <dimen name="px_23">23px</dimen>
+    <dimen name="px_24">24px</dimen>
+    <dimen name="px_25">25px</dimen>
+    <dimen name="px_26">26px</dimen>
+    <dimen name="px_28">28px</dimen>
+    <dimen name="px_29">29px</dimen>
+    <dimen name="px_30">30px</dimen>
+
+    <dimen name="px_125">125px</dimen>
+    <dimen name="px_130">130px</dimen>
+
+    <dimen name="px_225">225px</dimen>
+    <dimen name="px_230">230px</dimen>
+
+    <dimen name="px_32">32px</dimen>
+    <dimen name="px_34">34px</dimen>
+    <dimen name="px_35">35px</dimen>
+    <dimen name="px_36">36px</dimen>
+    <dimen name="px_37">37px</dimen>
+    <dimen name="px_38">38px</dimen>
+    <dimen name="px_40">40px</dimen>
+
+    <dimen name="px_132">132px</dimen>
+    <dimen name="px_134">134px</dimen>
+    <dimen name="px_136">136px</dimen>
+    <dimen name="px_138">138px</dimen>
+    <dimen name="px_140">140px</dimen>
+
+    <dimen name="px_240">240px</dimen>
+    <dimen name="px_420">420px</dimen>
+
+    <dimen name="px_42">42px</dimen>
+    <dimen name="px_43">43px</dimen>
+    <dimen name="px_45">45px</dimen>
+    <dimen name="px_46">46px</dimen>
+    <dimen name="px_48">48px</dimen>
+    <dimen name="px_49">49px</dimen>
+    <dimen name="px_50">50px</dimen>
+
+    <dimen name="px_142">142px</dimen>
+    <dimen name="px_144">144px</dimen>
+    <dimen name="px_146">146px</dimen>
+    <dimen name="px_150">150px</dimen>
+
+    <dimen name="px_250">250px</dimen>
+    <dimen name="px_270">270px</dimen>
+
+    <dimen name="px_52">52px</dimen>
+    <dimen name="px_55">55px</dimen>
+    <dimen name="px_59">59px</dimen>
+    <dimen name="px_60">60px</dimen>
+
+    <dimen name="px_152">152px</dimen>
+    <dimen name="px_156">156px</dimen>
+    <dimen name="px_158">158px</dimen>
+    <dimen name="px_160">160px</dimen>
+    <dimen name="px_162">162px</dimen>
+
+    <dimen name="px_252">252px</dimen>
+    <dimen name="px_256">256px</dimen>
+    <dimen name="px_260">260px</dimen>
+
+
+    <dimen name="px_62">62px</dimen>
+    <dimen name="px_64">64px</dimen>
+    <dimen name="px_65">65px</dimen>
+    <dimen name="px_66">66px</dimen>
+    <dimen name="px_68">68px</dimen>
+    <dimen name="px_70">70px</dimen>
+    <dimen name="px_166">166px</dimen>
+    <dimen name="px_167">167px</dimen>
+    <dimen name="px_170">170px</dimen>
+
+    <dimen name="px_265">265px</dimen>
+
+    <dimen name="px_75">75px</dimen>
+    <dimen name="px_76">76px</dimen>
+    <dimen name="px_80">80px</dimen>
+
+    <dimen name="px_178">178px</dimen>
+    <dimen name="px_180">180px</dimen>
+
+    <dimen name="px_275">275px</dimen>
+    <dimen name="px_280">280px</dimen>
+
+    <dimen name="px_81">81px</dimen>
+    <dimen name="px_85">85px</dimen>
+    <dimen name="px_90">90px</dimen>
+    <dimen name="px_99">99px</dimen>
+
+    <dimen name="px_182">182px</dimen>
+
+    <dimen name="px_290">290px</dimen>
+
+    <dimen name="px_92">92px</dimen>
+    <dimen name="px_95">95px</dimen>
+    <dimen name="px_96">96px</dimen>
+    <dimen name="px_98">98px</dimen>
+    <dimen name="px_100">100px</dimen>
+
+    <dimen name="px_196">196px</dimen>
+    <dimen name="px_200">200px</dimen>
+
+    <dimen name="px_294">294px</dimen>
+    <dimen name="px_300">300px</dimen>
+    <dimen name="px_320">320px</dimen>
+    <dimen name="px_360">360px</dimen>
+    <dimen name="px_363">363px</dimen>
+    <dimen name="px_520">520px</dimen>
+    <dimen name="px_580">580px</dimen>
+    <dimen name="px_430">430px</dimen>
+    <dimen name="px_480">480px</dimen>
+    <dimen name="px_792">792px</dimen>
+    <dimen name="px_750">750px</dimen>
+    <dimen name="px_780">780px</dimen>
+    <dimen name="px_598">598px</dimen>
+    <dimen name="px_900">900px</dimen>
+    <dimen name="px_600">600px</dimen>
+    <dimen name="px_620">620px</dimen>
+    <dimen name="px_650">650px</dimen>
+    <dimen name="px_680">680px</dimen>
+    <dimen name="px_1200">1200px</dimen>
+    <dimen name="px_1520">1520px</dimen>
+    <dimen name="px_1530">1530px</dimen>
+    <dimen name="px_1000">1000px</dimen>
+    <dimen name="px_980">980px</dimen>
+    <dimen name="px_970">970px</dimen>
+    <dimen name="px_950">950px</dimen>
+    <dimen name="px_940">940px</dimen>
+    <dimen name="px_930">930px</dimen>
+    <dimen name="px_1040">1040px</dimen>
+    <dimen name="px_1130">1130px</dimen>
+    <dimen name="px_460">460px</dimen>
+    <dimen name="px_450">450px</dimen>
+    <dimen name="px_400">400px</dimen>
+    <dimen name="px_560">560px</dimen>
+    <dimen name="px_566">566px</dimen>
+    <dimen name="px_740">740px</dimen>
+    <dimen name="px_770">770px</dimen>
+    <dimen name="px_700">700px</dimen>
+    <dimen name="px_629">629px</dimen>
+    <dimen name="px_500">500px</dimen>
+    <dimen name="px_350">350px</dimen>
+    <dimen name="px_344">344px</dimen>
+    <dimen name="px_380">380px</dimen>
+    <dimen name="px_690">690px</dimen>
+    <dimen name="px_387">387px</dimen>
+    <dimen name="px_370">370px</dimen>
+    <dimen name="px_317">317px</dimen>
+    <dimen name="px_800">800px</dimen>
+    <dimen name="px_830">830px</dimen>
+    <dimen name="px_820">820px</dimen>
+    <dimen name="px_860">860px</dimen>
+    <dimen name="px_640">640px</dimen>
+    <dimen name="px_724">724px</dimen>
+    <dimen name="px_1056">1056px</dimen>
+    <dimen name="px_1100">1100px</dimen>
+    <dimen name="px_1105">1105px</dimen>
+    <dimen name="px_1110">1110px</dimen>
+    <dimen name="px_1120">1120px</dimen>
+    <dimen name="px_1150">1150px</dimen>
+    <dimen name="px_1400">1400px</dimen>
+    <dimen name="px_1360">1360px</dimen>
+    <dimen name="px_588">588px</dimen>
+    <dimen name="px_1289">1289px</dimen>
+    <dimen name="px_470">470px</dimen>
+    <dimen name="px_432">432px</dimen>
+    <dimen name="px_610">610px</dimen>
+    <dimen name="px_418">418px</dimen>
+    <dimen name="px_390">390px</dimen>
+    <dimen name="px_630">630px</dimen>
+    <dimen name="px_510">510px</dimen>
+    <dimen name="px_570">570px</dimen>
+    <dimen name="px_1160">1160px</dimen>
+    <dimen name="px_1250">1250px</dimen>
+
+    <dimen name="px_314">314px</dimen>
+    <dimen name="px_492">492px</dimen>
+    <dimen name="px_195">195px</dimen>
+    <dimen name="px_44">44px</dimen>
+    <dimen name="px_123">123px</dimen>
+    <dimen name="px_133">133px</dimen>
+    <dimen name="px_88">88px</dimen>
+    <dimen name="px_128">128px</dimen>
+    <dimen name="px_21">21px</dimen>
+    <dimen name="px_17">17px</dimen>
+    <dimen name="px_145">145px</dimen>
+    <dimen name="px_670">670px</dimen>
+    <dimen name="px_660">660px</dimen>
+    <dimen name="px_550">550px</dimen>
+    <dimen name="px_1180">1180px</dimen>
+    <dimen name="px_1220">1220px</dimen>
+    <dimen name="px_336">336px</dimen>
+    <dimen name="px_54">54px</dimen>
+    <dimen name="px_84">84px</dimen>
+    <dimen name="px_1920">1920px</dimen>
+    <dimen name="px_1680">1680px</dimen>
+    <dimen name="px_3000">3000px</dimen>
+
+    <dimen name="px_78">78px</dimen>
+    <dimen name="px_522">522px</dimen>
+    <dimen name="px_532">532px</dimen>
+</resources>

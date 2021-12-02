@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:duration="500"
+        android:fromXDelta="100%"
+        android:toXDelta="0"
+        />
+
+<!--    <rotate-->
+<!--        android:duration="500"-->
+<!--        android:fromDegrees="270"-->
+<!--        android:toDegrees="0"-->
+<!--        android:pivotX="100%"-->
+<!--        android:pivotY="100%"-->
+<!--        />-->
+    <!--    <alpha-->
+    <!--        android:fromAlpha="0.0"-->
+    <!--        android:toAlpha="1.0"-->
+    <!--        android:duration="500"/>-->
+
+<!--        <scale-->
+<!--            android:pivotX="50%"-->
+<!--            android:pivotY="50%"-->
+<!--            android:fromXScale="0.5"-->
+<!--            android:fromYScale="0.5"-->
+<!--            android:toXScale="1"-->
+<!--            android:toYScale="1"-->
+<!--            android:duration="500"-->
+<!--            />-->
+    <!--选择是一起执行动画还是按照顺序来-->
+    <!--    android:ordering=["together" | "sequentially"]>-->
+
+    <!--    <objectAnimator-->
+    <!--    图像的动画名称来规定属性比如backgroudcolor-->
+    <!--    android:propertyName="string"-->
+    <!--    指定播放时间-->
+    <!--    android:duration="int"-->
+    <!--    指定从哪里开始具体的要根据你指定的propertyName-->
+    <!--    android:valueFrom="float | int | color"-->
+    <!--    制定从哪里结束具体的要根据你指定的propertyName-->
+    <!--    android:valueTo="float | int | color"-->
+    <!--    比开始偏移多少也可以理解为延时-->
+    <!--    android:startOffset="int"-->
+    <!--    重复次数比如1是重复两次-->
+    <!--    android:repeatCount="int"-->
+    <!--    重复模式-->
+    <!--    android:repeatMode=["repeat" | "reverse"]-->
+    <!--    默认使用floatType建议不要更改-->
+    <!--    android:valueType=["intType" | "floatType"]/>-->
+
+</set>
